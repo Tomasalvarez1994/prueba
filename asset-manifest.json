@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portafolio-tomas/static/css/main.5c5e66ee.css",
+    "main.js": "/portafolio-tomas/static/js/main.b3c51d2b.js",
+    "index.html": "/portafolio-tomas/index.html",
+    "main.5c5e66ee.css.map": "/portafolio-tomas/static/css/main.5c5e66ee.css.map",
+    "main.b3c51d2b.js.map": "/portafolio-tomas/static/js/main.b3c51d2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c5e66ee.css",
+    "static/js/main.b3c51d2b.js"
+  ]
+}
